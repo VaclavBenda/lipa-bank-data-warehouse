@@ -104,7 +104,7 @@ lipa-bank-data-warehouse/
 │
 ├── docs/
 │   ├── data_catalog_cz.md                             # Field descriptions for all layers (in czech)
-│   ├── data_catalog_en                                # Field descriptions for all layers (in english)
+│   ├── data_catalog_en.md                             # Field descriptions for all layers (in english)
 │   └── images/
 │       ├── medallion_architecture.png
 │       └── gold_star_schema.png
