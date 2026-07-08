@@ -1,0 +1,6 @@
+product_id,product_name,product_category
+P01,Běžný účet Standard,Běžný účet
+P02,Běžný účet Premium,Běžný účet
+P03,Spořicí účet,Spořicí účet
+P04,Studentský účet,Běžný účet
+P05,Podnikatelský účet,Běžný účet
